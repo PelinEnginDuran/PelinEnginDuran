@@ -1,5 +1,5 @@
 - 👋 Hi, as a front-end and React developer! I'm Pelin Engin Duran, aiming to stay ahead in the world of technology. Here's some information to get to know me better:
-- 💻 I'm interes in front-end development and React.
+- 💻 I'm interes in front-end and mobile development and React.
 🚀 I'm open to the constant evolution of technology and eager to learn and implement new technologies.
 🤝 I approach team collaboration with a strong belief and make efforts for harmonious teamwork.
 - ⚛️ I prioritize working with React and React Native for web and mobile application development.
